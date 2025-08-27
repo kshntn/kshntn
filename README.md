@@ -32,9 +32,7 @@
 
 ---
 
-## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kshntn)](https://git.io/streak-stats)
-
+## 🔦 Highlight Projects
 
 - **[TV Script Generation](https://github.com/kshntn/DLND/tree/master/Project-3)**
   Generate scripts in the style of dialogue from Seinfeld Season using Recurrent neural network
@@ -42,6 +40,8 @@
 - **[Face Generation](https://github.com/kshntn/DLND/tree/master/Project-4)**  
   Generate images of new and realistic human faces using DCGAN on the CelebA dataset
 
+
+## 🤝Collaboration
 - **[EmoAR](https://github.com/kshntn/EmoAR)**  
   Facial Emotion Recognition Project for the PyTorch Hackathon September 2019
   
