@@ -51,8 +51,6 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/akash-antony/](https://www.linkedin.com/in/akash-antony/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" altgoColor=white
+  <a href="https://www.linkedin.com/in/akash-antony/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-
